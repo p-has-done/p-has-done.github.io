@@ -10,6 +10,7 @@
 ## Vita
 - 2024-, MS, School of Computing, KAIST
 - 2020-2024, BS, School of Computing, KAIST
+- 2020-2024, BS, Dept. of Bio and Brain Engineering, KAIST
 
 ## Papers & Projects
 
